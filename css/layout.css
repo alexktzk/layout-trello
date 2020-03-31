@@ -17,10 +17,10 @@
 
 #board.layout-trello-vertical .list-wrapper,
 #board.layout-trello-mixed .list-wrapper {
-  margin: 0 0 10px 10px;
+  margin: 0 0 5px 5px;
   height: auto;
 }
 
 #board.layout-trello-mixed .js-list-content {
-  max-height: 40vh;
+  max-height: 42vh;
 }
